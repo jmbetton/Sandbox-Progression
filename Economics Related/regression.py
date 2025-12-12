@@ -1,6 +1,8 @@
 # !!! This code is not mine originally and comes from the youtube video by NeuralNine linked below 
 # https://www.youtube.com/watch?v=VmbA0pi2cRQ 
 
+# Creating a linear regression in Python
+
 import pandas as pd
 import matplotlib.pyplot as plt
 
